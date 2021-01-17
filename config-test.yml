@@ -1,2 +1,2 @@
- config:
-  info: "master branch,config-repo config-test.yml version=8"
+config:
+ info: "master branch,config-repo config-test.yml version=8"
